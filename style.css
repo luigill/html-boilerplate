@@ -1,0 +1,9 @@
+/* Introdução ao CSS */
+/* CSS é um conjunto de regras para estilização de websites. */
+/* As regras consistem em um seletor, e uma lista de declarações separadas por ; */
+/* As declarações funcionam em pares chave:valor */
+
+div.bold-text{
+  font-weight: 700;
+  
+}
